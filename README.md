@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=timeAuto&section=header&text=Heesu)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=180&section=header&text=Heesu&fontColor=ffffff)
 
 <!-- Frontend Skills -->
 
